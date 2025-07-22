@@ -15,7 +15,7 @@ This project creates an interactive business sales dashboard using Power BI to a
 
 ## 📈 Dataset Information
 
-**Dataset:** `cleaned_ecommerce_sales_data.c`
+**Dataset:** https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 **Key Statistics:**
 - **Total Records:** 1,042,728 transactions
@@ -119,42 +119,6 @@ Missing Values: 237,108 missing Customer IDs (23% of data)
 4. **Customer Retention:** Focus on markets with missing customer data
 5. **Product Development:** Analyze successful product characteristics for new launches
 
-## 📁 Project Structure
-```
-├── data/
-│   └── cleaned_ecommerce_sales_data.csv
-├── notebooks/
-│   └── sales_analysis.ipynb
-├── dashboard/
-│   └── sales_dashboard.pbix
-├── visualizations/
-│   ├── sales_trend.png
-│   ├── top_products.png
-│   └── category_distribution.png
-└── README.md
-```
-
-## 🚀 How to Use
-
-1. **Clone Repository:**
-   ```bash
-   git clone https://github.com/yourusername/ecommerce-sales-dashboard.git
-   ```
-
-2. **Install Dependencies:**
-   ```bash
-   pip install pandas numpy matplotlib seaborn jupyter
-   ```
-
-3. **Run Analysis:**
-   ```bash
-   jupyter notebook notebooks/sales_analysis.ipynb
-   ```
-
-4. **Open Dashboard:**
-   - Open `dashboard/sales_dashboard.pbix` in Power BI Desktop
-   - Refresh data connections if needed
-   - Interact with visualizations and filters
 
 ## 📊 Dashboard Features
 
@@ -175,16 +139,14 @@ Missing Values: 237,108 missing Customer IDs (23% of data)
 
 ## 🔗 Links & Resources
 
-- **LinkedIn Post:** [Project Showcase](https://linkedin.com/in/yourprofile)
-- **Dashboard Demo:** [Power BI Online](https://app.powerbi.com/your-dashboard-link)
-- **Data Source:** E-commerce Transaction Data (2010-2011)
+- **Data Source:**https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 ## 👨‍💻 Author
 
-**Your Name**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [Your Portfolio Website](https://yourportfolio.com)
+**DEKOLLU HARSHITHA**
+- LinkedIn: https://www.linkedin.com/in/dekollu-harshitha-617948318/
+- Email: dekolluharshitha@gmail.com
+
 
 ## 📄 License
 
