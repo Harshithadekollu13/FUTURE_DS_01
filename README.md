@@ -140,8 +140,7 @@ Missing Values: 237,108 missing Customer IDs (23% of data)
 ## 🔗 Links & Resources
 
 - **Data Source:**https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
-- **Linkedin:https://www.linkedin.com/posts/dekollu-harshitha-617948318_futureinterns-task1-powerbi-activity-7356270672064454656-3GqB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFCV6XMBkSPcBF263r50kQ5MQRwejxG0NB8
-
+- **Linkedinhttps://www.linkedin.com/feed/update/urn:li:ugcPost:7356277878323310593/
 ## 👨‍💻 Author
 
 **DEKOLLU HARSHITHA**
